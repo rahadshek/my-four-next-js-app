@@ -1,0 +1,229 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": " Air M3",
+      "description": "Powerful and lightweight Apple laptop with the M3 chip.",
+      "price": 120000,
+      "rating": 4.9,
+      "category": "Laptop",
+      "brand": "Apple",
+      "stock": 15,
+      "image": "/images/macbook-air-m3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dell XPS 15",
+      "description": "Premium Windows laptop with a powerful Intel processor.",
+      "price": 145000,
+      "rating": 4.8,
+      "category": "Laptop",
+      "brand": "Dell",
+      "stock": 10,
+      "image": "/images/dell-xps-15.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S25",
+      "description": "Flagship Android smartphone with a high-quality camera.",
+      "price": 95000,
+      "rating": 4.7,
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "stock": 20,
+      "image": "/images/galaxy-s25.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 16",
+      "description": "Modern Apple smartphone with excellent performance and camera.",
+      "price": 110000,
+      "rating": 4.9,
+      "category": "Smartphone",
+      "brand": "Apple",
+      "stock": 18,
+      "image": "/images/iphone-16.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sony WH-1000XM5",
+      "description": "Premium wireless headphones with advanced noise cancellation.",
+      "price": 35000,
+      "rating": 4.8,
+      "category": "Headphone",
+      "brand": "Sony",
+      "stock": 25,
+      "image": "/images/sony-wh-1000xm5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Logitech MX Master 3S",
+      "description": "Comfortable and precise wireless mouse for productivity.",
+      "price": 9500,
+      "rating": 4.7,
+      "category": "Mouse",
+      "brand": "Logitech",
+      "stock": 30,
+      "image": "/images/mx-master-3s.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Keychron K2",
+      "description": "Compact wireless mechanical keyboard for work and gaming.",
+      "price": 12000,
+      "rating": 4.6,
+      "category": "Keyboard",
+      "brand": "Keychron",
+      "stock": 22,
+      "image": "/images/keychron-k2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Apple Watch Series 10",
+      "description": "Smartwatch with fitness tracking and health features.",
+      "price": 45000,
+      "rating": 4.8,
+      "category": "Smartwatch",
+      "brand": "Apple",
+      "stock": 12,
+      "image": "/images/apple-watch-series-10.jpg"
+    },
+    {
+      "id": 9,
+      "name": "JBL Flip 6",
+      "description": "Portable Bluetooth speaker with powerful sound and deep bass.",
+      "price": 11000,
+      "rating": 4.5,
+      "category": "Speaker",
+      "brand": "JBL",
+      "stock": 35,
+      "image": "/images/jbl-flip-6.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Samsung 27 Inch Monitor",
+      "description": "Full HD monitor suitable for coding, office work, and entertainment.",
+      "price": 28000,
+      "rating": 4.6,
+      "category": "Monitor",
+      "brand": "Samsung",
+      "stock": 14,
+      "image": "/images/samsung-monitor.jpg"
+    }
+  ],
+
+
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A young shepherd follows his dreams and discovers the meaning of life.",
+      "price": 450,
+      "category": "Novel",
+      "rating": 4.7,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "price": 650,
+      "category": "Self Help",
+      "rating": 4.8,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "description": "A book about money, investing, and developing financial intelligence.",
+      "price": 550,
+      "category": "Finance",
+      "rating": 4.6,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "description": "Explores how emotions and behavior influence financial decisions.",
+      "price": 700,
+      "category": "Finance",
+      "rating": 4.8,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+    },
+    {
+      "id": 5,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "description": "A classic book about mindset, success, and achieving personal goals.",
+      "price": 500,
+      "category": "Personal Development",
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+    },
+    {
+      "id": 6,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "description": "A guide to writing clean, readable, and maintainable software code.",
+      "price": 950,
+      "category": "Programming",
+      "rating": 4.9,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+    },
+    {
+      "id": 7,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "description": "An introduction to the powerful and useful parts of JavaScript.",
+      "price": 800,
+      "category": "Programming",
+      "rating": 4.4,
+      "stock": 14,
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6"
+    },
+    {
+      "id": 8,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "description": "A guide to living in the present moment and improving awareness.",
+      "price": 600,
+      "category": "Self Help",
+      "rating": 4.6,
+      "stock": 16,
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311"
+    },
+    {
+      "id": 9,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "description": "A framework for becoming more effective in personal and professional life.",
+      "price": 750,
+      "category": "Personal Development",
+      "rating": 4.7,
+      "stock": 11,
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc"
+    },
+    {
+      "id": 10,
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "description": "A modern introduction to JavaScript programming and web development.",
+      "price": 900,
+      "category": "Programming",
+      "rating": 4.8,
+      "stock": 9,
+      "image": "https://images.unsplash.com/photo-1495640388908-05fa85288e61"
+    }
+  ]
+}
